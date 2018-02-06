@@ -3,7 +3,8 @@ import Vue from 'vue'
 import 'normalize.css/normalize.css'// A modern alternative to CSS resets
 
 import Element from 'element-ui'
-import 'element-ui/lib/theme-chalk/index.css'
+import './assets/baoli-theme/index.css' // 引入保理云样式主题
+// import 'element-ui/lib/theme-chalk/index.css'
 
 import '@/styles/index.scss' // global css
 
